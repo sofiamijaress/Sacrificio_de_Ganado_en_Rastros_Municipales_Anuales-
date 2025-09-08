@@ -32,7 +32,7 @@ El estudio permitió explorar cómo distintos factores productivos y económicos
 
 El proyecto tiene los siguientes documentos: 
 
-* []()
-* []()
-* []()
-* []()
+* [Reporte en formato ipynb](PP1645700.ipynb)
+* [Reporte en formato html](PP1645700.html)
+* [Base de datos](Sacrificio.csv)
+* [Diccionario](diccionario_datos_esgrm_anual_1989_2024.csv)
